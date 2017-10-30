@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\shibaeva.2015\source\repos\дифуры_1\дифуры_1\system.h(21): warning C4101: k4: неиспользованная локальная переменная
+c:\users\shibaeva.2015\source\repos\дифуры_1\дифуры_1\system.h(21): warning C4101: k3: неиспользованная локальная переменная
+  Дифуры_1.vcxproj -> C:\Users\shibaeva.2015\source\repos\Дифуры_1\Debug\Дифуры_1.exe
+  Дифуры_1.vcxproj -> C:\Users\shibaeva.2015\source\repos\Дифуры_1\Debug\Дифуры_1.pdb (Partial PDB)
